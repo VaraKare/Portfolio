@@ -1,0 +1,7 @@
+Used : npx create-vite
+Selected react framework and a JavaScript Variant
+Updated Nodejs since @tailwindcss/vite works only in 22.0.0 version of npm.
+installed lucid-react for icons 
+react-router-dom
+tailwind merge 
+@radix-ui/react-toast class-variance-authority clsx
